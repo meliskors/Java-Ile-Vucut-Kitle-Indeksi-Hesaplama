@@ -1,4 +1,4 @@
-# JavaIleVucutKitleIndeksiHesaplama
+# Java İle Vücut Kitle Indeksi Hesaplama
 VÜCUT KİTLE İNDEKSİ
 
 Kodla Kariyerine Başla - Java Bootcamp Hazırlık Programı Ödevi kapsamında Vücut Kitle İndeksi Hesaplayan Program
